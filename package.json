@@ -1,0 +1,11 @@
+{
+  "name": "sievesferatosthenes",
+  "version": "1.0.0",
+  "description": "Implementation of Sieve Of Eratosthenes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avishek Patra",
+  "license": "ISC"
+}
